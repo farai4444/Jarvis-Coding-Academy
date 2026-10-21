@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Code Academy",
+  "description": "Comprehensive fundamentals of programming academy for beginners with 100 exercises, 40 projects, 25 tests, intelligent anti-cheat detection, and point-driven progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
